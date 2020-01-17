@@ -1,5 +1,11 @@
 
-
 .img-wrapper { display: inline-block; width: 35%; padding: 10px 15px;  }
 
 .img-wrapper > img { width: 100%; }
+
+.black-background { background-color: black; }
+
+ /*.st0{fill:#333 !important;} */
+
+ #beerGraphic:hover #rGrain { fill:red; }
+ #beerGraphic:hover #lGrain { fill:red; }
